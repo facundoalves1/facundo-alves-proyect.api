@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/facundoalves1/facundo-alves-proyect.api#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "mongoose": "^6.0.14"
   }
 }
